@@ -1,0 +1,235 @@
+body {
+  margin: 0px;
+  padding: 0px; }
+
+body {
+  background-color: #dbe0e6; }
+  body .body_color {
+    background-color: #2c394a;
+    width: 60vw;
+    margin-left: 20vw;
+    margin-top: 14vh;
+    box-shadow: 4px 6px 25px -2px;
+    padding-bottom: 310px; }
+    body .body_color .date {
+      background-color: #44525d;
+      opacity: 0.8;
+      width: 55vw;
+      height: 50vh;
+      position: relative;
+      margin-left: 130px;
+      box-shadow: 0px 13px 60px -17px; }
+      body .body_color .date .month {
+        color: white;
+        font-size: 20px;
+        letter-spacing: 5px;
+        position: absolute;
+        top: 105px;
+        left: 90px;
+        border-bottom: 3px solid white;
+        padding: 5px; }
+      body .body_color .date .text1 {
+        color: white;
+        position: absolute;
+        top: 142px;
+        left: 90px;
+        letter-spacing: 2px;
+        line-height: 26px; }
+    body .body_color .menu {
+      font-family: sans-serif;
+      position: relative;
+      color: white;
+      top: 90px;
+      left: 83px;
+      font-size: 150px;
+      letter-spacing: 60px;
+      z-index: 1; }
+  body .plate {
+    position: absolute;
+    z-index: -1;
+    top: 260px;
+    left: 115px; }
+  body .item1 {
+    background-color: #cacf5b;
+    width: 75vw;
+    height: 70vh;
+    position: relative;
+    left: -50px;
+    margin-top: 235px;
+    box-shadow: 2px 5px 20px -2px; }
+    body .item1 .wine {
+      background-color: #fff;
+      width: 45vw;
+      height: 53vh;
+      left: -50px;
+      position: relative;
+      box-shadow: 2px 5px 20px -2px; }
+      body .item1 .wine .APPETIZERS {
+        color: #e3bdb7;
+        position: absolute;
+        text-align: center;
+        margin-left: 148px;
+        margin-top: 55px;
+        border-bottom: 2px solid;
+        padding: 7px; }
+      body .item1 .wine .BRIE {
+        color: #6d8490;
+        position: absolute;
+        top: 100px;
+        left: 130px;
+        border-bottom: 2px solid;
+        padding: 7px; }
+      body .item1 .wine .text2 {
+        color: #afb6bc;
+        position: absolute;
+        top: 180px;
+        left: 90px;
+        letter-spacing: 2px;
+        line-height: 26px;
+        text-align: center; }
+    body .item1 .cheese {
+      position: relative;
+      width: 100%;
+      left: 380px;
+      top: -46px;
+      box-shadow: 0px 1px 20px -1px; }
+    body .item1 .grapes {
+      position: absolute;
+      top: 80px;
+      left: -100px;
+      width: 30%;
+      z-index: -1; }
+  body .item2 {
+    background-color: #cd524b;
+    width: 75vw;
+    height: 70vh;
+    position: relative;
+    left: -125px;
+    margin-top: 235px;
+    box-shadow: 2px 5px 20px -2px; }
+    body .item2 .mint {
+      position: relative;
+      float: right;
+      top: 395px;
+      left: 40px;
+      z-index: -1; }
+    body .item2 .beef {
+      position: absolute;
+      width: 70%;
+      left: 385px;
+      top: 43px; }
+    body .item2 .grill {
+      background-color: #fff;
+      width: 400px;
+      height: 400px;
+      left: 55px;
+      top: 105px;
+      position: relative;
+      box-shadow: 2px 5px 20px -2px;
+      z-index: 1; }
+      body .item2 .grill .the_grill {
+        color: #e3bdb7;
+        position: absolute;
+        text-align: center;
+        margin-left: 125px;
+        margin-top: 75px;
+        border-bottom: 2px solid;
+        padding: 7px; }
+      body .item2 .grill .steak {
+        color: #6d8490;
+        position: absolute;
+        text-align: center;
+        top: 125px;
+        left: 127px;
+        border-bottom: 2px solid;
+        padding: 7px; }
+    body .item2 .text3 {
+      color: #afb6bc;
+      position: absolute;
+      top: 215px;
+      left: 60px;
+      letter-spacing: 2px;
+      line-height: 26px;
+      text-align: center; }
+  body .item3 {
+    background-color: #7a93ac;
+    width: 75vw;
+    height: 70vh;
+    position: relative;
+    left: -125px;
+    margin-top: 235px;
+    box-shadow: 2px 5px 20px -2px; }
+    body .item3 .mango_leaf {
+      position: absolute;
+      z-index: -1;
+      bottom: -75px;
+      left: -95px; }
+    body .item3 .mango {
+      position: relative;
+      width: 52%;
+      float: right;
+      bottom: 45px;
+      right: 45px;
+      z-index: 1;
+      box-shadow: 0px 2px 25px 1px; }
+    body .item3 .desert {
+      background-color: #fff;
+      width: 45vw;
+      height: 53vh;
+      left: -50px;
+      position: relative;
+      box-shadow: 2px 5px 20px -2px; }
+      body .item3 .desert .sweet {
+        color: #e3bdb7;
+        position: absolute;
+        text-align: center;
+        margin-left: 177px;
+        margin-top: 55px;
+        border-bottom: 2px solid;
+        padding: 7px; }
+      body .item3 .desert .thai {
+        color: #6d8490;
+        position: absolute;
+        top: 100px;
+        left: 130px;
+        border-bottom: 2px solid;
+        padding: 7px; }
+      body .item3 .desert .text4 {
+        color: #afb6bc;
+        position: absolute;
+        top: 180px;
+        left: 90px;
+        letter-spacing: 2px;
+        line-height: 26px;
+        text-align: center; }
+  body .vegan {
+    background-color: #44525d;
+    opacity: 0.9;
+    width: 50vw;
+    height: 121px;
+    position: relative;
+    margin-top: 230px;
+    right: -70px;
+    float: right;
+    box-shadow: 0px 0px 15px 0px; }
+    body .vegan .gluten {
+      color: white;
+      text-align: center;
+      padding: 30px;
+      letter-spacing: 3px;
+      font-family: cursive; }
+  body .extra {
+    position: absolute;
+    color: #6d8490;
+    letter-spacing: 20px;
+    text-align: center;
+    margin-left: 43vw;
+    margin-top: 250px; }
+  body .arrow {
+    position: relative;
+    top: 20px;
+    left: -11px;
+    width: 50px;
+    padding: 13px; }
+
+/*# sourceMappingURL=master.css.map */
